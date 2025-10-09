@@ -1,0 +1,14 @@
+data/*
+!data/README.md
+results/*
+!results/.gitkeep
+*.csv
+*.tsv
+*.jsonl
+*.joblib
+*.pt
+*.h5
+*.keras
+.kaggle/
+.ipynb_checkpoints/
+__pycache__/
