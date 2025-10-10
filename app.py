@@ -6,7 +6,7 @@ import re, joblib, numpy as np, tensorflow as tf
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 
 # --------- CONFIG ----------
-MODEL_DIR = "/content/drive/MyDrive/fake_news_project/results/models/models"
+MODEL_DIR = "results/models/models"
 MAX_LEN = 300
 USE_LSTM = True     # set to False if you want only TF-IDF + SVM
 # ---------------------------
