@@ -12,3 +12,5 @@ results/*
 .kaggle/
 .ipynb_checkpoints/
 __pycache__/
+config.bat
+node_modules
