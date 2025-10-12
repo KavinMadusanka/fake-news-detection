@@ -1,4 +1,5 @@
 
+import utils.session
 import streamlit as st
 st.set_page_config(page_title="Fake News Detection", page_icon="📰")
 
